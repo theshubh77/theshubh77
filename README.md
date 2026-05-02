@@ -26,3 +26,5 @@ An ORDINARY guy with EXTRAORDINARY dreams!
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/theshubh77"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
+
+[![Shubham Bhamare profile views](https://u8views.com/api/v1/github/profiles/87901258/views/day-week-month-total-count.svg)](https://u8views.com/github/theshubh77)
